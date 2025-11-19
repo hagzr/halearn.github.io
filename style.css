@@ -1,0 +1,26 @@
+style.css
+body {
+    background: #f0f0f0;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: blue;
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: blue;
+}
+
+button {
+    background: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
